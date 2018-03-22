@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PLC::swap_cells(Grids**, Point, Point, int&amp;, int&amp;):Placement_Net.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "oo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PLC::swap_cells(Grids**, Point, Point):Placement_Net.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "mygrids[1][1].cell_No">
+            </PersistentString>
+            <PersistentString
+               value = "mygrids[0][0].cell_No">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
